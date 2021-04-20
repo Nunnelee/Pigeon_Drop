@@ -2,6 +2,7 @@
 A 2D game created with Pygame
 
 The main program is pigeon_drop.py that accesses all of the other programs and images within the same storage file.
+
 To stop the game at any point, press 'q' for quit.
 
 Project Plan
